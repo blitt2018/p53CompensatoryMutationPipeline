@@ -16,3 +16,6 @@ Mutations were manually collected from a variety of papers and put into a spread
 ## Analysis of compensatory mutations 
  - One question is whether or not certain biological groups have similar compensating mutations, and if so, what mutations occur in which groups? This question was answered visually in createCompensMutsByGenusHist.R. 
  - Additionally, it is useful to know if delitirious mutations in the human sequence occur in wild type P53 sequences for different organisms. This question was answered visually in plotDelMutsForOrgCompensMuts.R. 
+ 
+## Result: 
+ - An experimentally validated human compensatory mutation was found in a wild-type mouse sequence. This sequence has very high sequence identity to the human referance sequence. Work for this step was done in pymol and evidence was shown in mouse_compensatory_mutation_visualized.png. The mutation found is validated to stabilize the human p53 structure in experimental studies. 
