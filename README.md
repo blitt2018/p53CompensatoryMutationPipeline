@@ -21,4 +21,4 @@ Mutations were manually collected from a variety of papers and put into a spread
  - An experimentally validated human compensatory mutation was found in a wild-type mouse sequence. This sequence has very high sequence identity to the human referance sequence. Work for this step was done in pymol and evidence was shown in mouse_compensatory_mutation_visualized.png. The mutation found is validated to stabilize the human p53 structure in experimental studies. 
 
 *Mouse sequence with compensatory mutation overlayed on human reference sequence*
-!(Mouse Compensatory Mutation)[https://github.com/blitt2018/p53CompensatoryMutationPipeline/blob/master/compareWCompensatoryDataset/compensStructFiles/mouse_compensatory_mutation_visualized.png]
+![Mouse Compensatory Mutation](https://github.com/blitt2018/p53CompensatoryMutationPipeline/blob/master/compareWCompensatoryDataset/compensStructFiles/mouse_compensatory_mutation_visualized.png)
